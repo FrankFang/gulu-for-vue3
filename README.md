@@ -16,3 +16,7 @@
 
 1. 运行 rollup -c
 2. 得到的 dist/lib 目录就是编译后的库文件所在目录
+
+## 视频教程
+
+https://zhuanlan.zhihu.com/p/260037106
